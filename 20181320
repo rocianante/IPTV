@@ -59,3 +59,10 @@ CCTV世界地理rtmp://ivi.bupt.edu.cn:1935/livetv/sjdltv
 CCTV风云音乐rtmp://ivi.bupt.edu.cn:1935/livetv/fyyytv
 凤凰卫视,http://183.207.249.34/PLTV/3/224/3221226922/index.m3u8
 星空卫视rtmp://ivi.bupt.edu.cn:1935/livetv/startv
+山西黄河,http://live3.sxrtv.com/flvss?bitrate=512000&channel=HuangHeNews&start=0&provider=www.tvmining.com,tvming-HuangHeNews
+山西科教,http://live3.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiEdu&start=0&provider=www.tvmining.com ,tvming-Shan1XiEdu
+山西影视,http://live2.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiFilm&start=0&provider=www.tvmining.com ,tvming-Shan1XiFilm
+北京体育,http://ivi.bupt.edu.cn/hls/btv6.m3u8 ,tvming-BTV6
+五星体育,http://42.81.36.178/chinanet4-live.bestvcdn.com.cn/live/program/live/ssty/1300000/live.m3u8?token=b68c02e7022aef141f00b18b362bcd83,tvming-SHSport 
+新视觉,http://113.142.90.138/chinanet4-live.bestvcdn.com.cn/live/program/live/xsjhd/2300000/live.m3u8?token=111d7a7f02aced15a62c2eec8f0ffa17 ,tvming-XSJHD
+劲爆体育HD,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225814/1.m3u8,tvming-JinBaoSportHD
